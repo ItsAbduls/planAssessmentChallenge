@@ -1,0 +1,16 @@
+C:\Projects\aptitude-test\aptitude-test\bin\Debug\net5.0\aptitude-test.exe
+C:\Projects\aptitude-test\aptitude-test\bin\Debug\net5.0\aptitude-test.deps.json
+C:\Projects\aptitude-test\aptitude-test\bin\Debug\net5.0\aptitude-test.runtimeconfig.json
+C:\Projects\aptitude-test\aptitude-test\bin\Debug\net5.0\aptitude-test.runtimeconfig.dev.json
+C:\Projects\aptitude-test\aptitude-test\bin\Debug\net5.0\aptitude-test.dll
+C:\Projects\aptitude-test\aptitude-test\bin\Debug\net5.0\aptitude-test.pdb
+C:\Projects\aptitude-test\aptitude-test\obj\Debug\net5.0\aptitude-test.csproj.AssemblyReference.cache
+C:\Projects\aptitude-test\aptitude-test\obj\Debug\net5.0\aptitude-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\aptitude-test\aptitude-test\obj\Debug\net5.0\aptitude-test.AssemblyInfoInputs.cache
+C:\Projects\aptitude-test\aptitude-test\obj\Debug\net5.0\aptitude-test.AssemblyInfo.cs
+C:\Projects\aptitude-test\aptitude-test\obj\Debug\net5.0\aptitude-test.csproj.CoreCompileInputs.cache
+C:\Projects\aptitude-test\aptitude-test\obj\Debug\net5.0\aptitude-test.dll
+C:\Projects\aptitude-test\aptitude-test\obj\Debug\net5.0\refint\aptitude-test.dll
+C:\Projects\aptitude-test\aptitude-test\obj\Debug\net5.0\aptitude-test.pdb
+C:\Projects\aptitude-test\aptitude-test\obj\Debug\net5.0\aptitude-test.genruntimeconfig.cache
+C:\Projects\aptitude-test\aptitude-test\obj\Debug\net5.0\ref\aptitude-test.dll
